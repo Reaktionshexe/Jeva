@@ -1,5 +1,5 @@
 local discord_webhook = {
-    url = "",
+    url = "https://discord.com/api/webhooks/796298598194348063/30Grd-3BZhM2wOuG7znCc0TBptX_6qITbGjUhJAX_NciKcOC9AKJ1wFw9XfvNIS0CBJO",
     image = "https://avatars3.githubusercontent.com/u/44536280?s=400&u=700eed70335218ce88975f3f8ba3b145e30b190d&v=4"
 }
 -- POST REQUEST
